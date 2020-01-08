@@ -18,6 +18,11 @@
 *MyClass*
 *MySuperClass*
 
+#结构体
+特殊的类 在尾加_T
+*FieldBuffer_T*
+*PackageParameter_T
+
 #弹出窗口类
 驼峰命名 不含下划线 以 Dialog 或 Window 结尾
 例如：
